@@ -1,4 +1,4 @@
-apple = "Nagano"
+apple = "Yamanashi" # この行を変更
 
 if apple == "Aomori"
   puts "このリンゴは青森県産です。"
